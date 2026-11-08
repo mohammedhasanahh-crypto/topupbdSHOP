@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "TOP UP SHOP BD";
+var website_name = "TOP UP BD SHOP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
